@@ -1,0 +1,17 @@
+1. Recursive method.
+	This method is usable when we require single value.
+	Time complexity : O(n * k)
+
+2. DP approach 2D array method.
+	This method is used when we want some or all the binomial co-efficients. 
+	Time complexity: O(n * k)
+	Space complexity: O(n * k)
+
+
+3.DP approach- 1D method (space optimized)
+	This method is used when we want one row of co-efficient.
+	Time complexity : O(n * k)
+	Space complexity : O(k)
+
+
+

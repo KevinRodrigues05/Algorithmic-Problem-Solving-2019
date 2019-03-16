@@ -1,0 +1,18 @@
+
+  
+
+Approach 1 : Look Up Table
+		Used when data or size of data is not static.
+		Space Complexity : O(n^2)
+		Time Complexity : O(n^2)
+		
+			
+Approach 2 : Square Root Decomposition:
+		Space Complexity : O(n)
+		Time Complexity : O(n)
+		
+
+Approach 3 : Segment Tree:
+		Time Complexity : O(n)
+		
+			
